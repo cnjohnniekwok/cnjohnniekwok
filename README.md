@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Blender and Unity.
 - 💞️ I’m looking to collaborate on web and game development
 - 📫 How to reach me: cnjohnniekwok@gmail.com
-- 👤 My Profile: https://cnjohnniekwok.github.io/profile
